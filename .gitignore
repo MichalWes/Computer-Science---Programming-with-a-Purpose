@@ -1,7 +1,13 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+**/Week 5
+**/io
+**/old
+**/.idea
 *.gitignore
 *.class
 *.iml
 *.zip
+*.xml
+*.txt
